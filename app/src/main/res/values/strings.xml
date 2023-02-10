@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RelativeLayoutsTest</string>
+    <string name="name_edittext">Name</string>
+    <string name="address_edittext">Address</string>
+    <string name="subject_edittext">Subject</string>
+    <string name="message_edittext">Message</string>
+    <string name="submit_edittext">Submit</string>
+</resources>
